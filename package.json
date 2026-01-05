@@ -10,9 +10,12 @@
   "dependencies": {
     "@babel/runtime": "^7.23.5",
     "@swc/helpers": "^0.5.17",
+    "@tanstack/react-query": "^5.90.16",
     "meteor-node-stubs": "^1.2.12",
+    "meteor-rpc": "^1.1.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "zod": "^4.3.5"
   },
   "devDependencies": {
     "@types/mocha": "^8.2.3",
